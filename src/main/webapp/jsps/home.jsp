@@ -46,8 +46,8 @@
 <body>
 
 <header>
-    <h1>🚀 Hello to KK DevSecOps with SRE AWS Portal  🚀</h1>
-    <h3>Training | Development | Consulting</h3>
+    <h1> Hello to KK DevSecOps with SRE </h1>
+    <h3>Training | Development | Consulting | superiority </h3>
 </header>
 
 <div class="container">
