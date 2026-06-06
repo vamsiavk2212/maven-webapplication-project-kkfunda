@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Hello to KK DevSecOps AWS Portal NEW BATCH STARTS ON JUNE 28 🚀</h1>
+    <h1>🚀 Hello to KK DevSecOps with SRE AWS Portal  🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
