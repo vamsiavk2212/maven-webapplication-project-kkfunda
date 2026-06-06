@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://3.110.194.189:8081/repository/fab-snpshot/</url>
+	      <url>http://3.110.194.189:8081/repository/fab-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
